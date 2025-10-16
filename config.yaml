@@ -132,13 +132,13 @@ docusaurus:
       #           - ../media/
       #         subsections:
       #           - Building your first dApp: dApp.md
-      - CTF:
+      - CTF Challenges:
               path: chapters/ctf/
               subsections:
-                - Overview: ctf.md
-                - Bump: bump.md
-                - Coinflip: coinflip.md
-                - GassPass: gaspass.md
+                - Overview/: ctf.md
+                - Bump/: bump.md
+                - Coinflip/: coinflip.md
+                - GassPass/: gaspass.md
       #     - Observer (Extra):
       #         path: chapters/introduction/lab/content/observer/
       #         extra:
