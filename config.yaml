@@ -58,7 +58,7 @@ docusaurus:
             # - Security: /build/embed_reveal/Security/Security.mdx
             # - Scaling dApps: /build/embed_reveal/Dapps/Dapps.mdx
             # - Composability: /build/embed_reveal/Composability/Composability.mdx
-      - Setting up the Lab Environment: chapters/introduction/lab/content/setup/setup.md
+      - Setting up the Environment: chapters/introduction/lab/content/setup/setup.md
           # - Env Setup:
           #     path: chapters/introduction/lab/content/setup
           #     subsections:
@@ -179,7 +179,7 @@ docusaurus:
     config_meta:
       title: Blockchain Protocols and Distributed Applications
       url: https://cs-pub-ro.github.io/
-      baseUrl: /blockchain-protocols-and-distributed-applications/
+      baseUrl: /blockchain-workshop-omniopencon/
       onBrokenLinks: warn
       onBrokenMarkdownLinks: warn
     config_socials:
