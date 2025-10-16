@@ -2,31 +2,35 @@
 slug: /
 ---
 
-# Blockchain Protocols and Distributed Applications
+# Blockchain Protocols and Distributed Applications Workshop
 
-Welcome to the course on Blockchain Protocols and Distributed Applications.
-This course will provide you with a comprehensive understanding of blockchain technology and its applications in various domains.
+**OmniOpenCon 2025**  
+October 17-19, 2025 | POLITEHNICA Bucharest Central Library
 
-## Course Overview
+Welcome to the hands-on workshop on How to create, deploy and run decentralized code!
 
-In this course, you will explore the following key topics:
+This workshop provides a practical introduction to blockchain technology, smart contracts, and decentralized applications. You'll get hands-on how to execute decentralized code via smart contracts on the MultiversX blockchain.
 
-- Introduction to Blockchain Technology
-- Blockchain Protocols and Consensus Mechanisms
-- Virtual Machines in Blockchains
-- Wallets
-- Smart Contracts
-- DApps (Decentralized Applications)
-- Security in Blockchains
-- MultiversX and Rust Programming
-- Blockchain Use Cases in Finance and more
+## Workshop Overview
+
+In this workshop, you will:
+
+- Understand the fundamentals of blockchain technology and consensus mechanisms
+- Set up a blockchain wallet and interact with the MultiversX testnet
+- Write and deploy your first smart contract using Rust
+
+## What to Bring
+
+**Please bring your laptop**. You can use [our VM](https://repository.grid.pub.ro/cs/bpda) or setup the environment on your own laptop.
+
+WiFi will be available at the venue.
 
 ## Prerequisites
 
-While there are no strict prerequisites for this course, a basic understanding of computer science and programming concepts will be beneficial.
+- Basic programming knowledge (any language)
+- Familiarity with command-line tools is helpful but not required
+- No prior blockchain experience needed!
 
-## Who should take this course?
+## About OmniOpenCon
 
-- Students interested in blockchain technology and its applications.
-- Developers and professionals looking to enhance their skills in blockchain development.
-- Anyone curious about the future of decentralized and secure systems.
+This workshop is part of OmniOpenCon, a gathering celebrating open source, open data, open science, and open education. The event is free and open to all. More details on [OmniOpenCon](https://omniopencon.org)!
