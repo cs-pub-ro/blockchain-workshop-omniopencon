@@ -43,7 +43,7 @@ embed_reveal:
 docusaurus:
   plugin: docusaurus
   options:
-    course_name: BPDA
+    course_name: How to create, deploy and run decentralized code
     sidebar: js
     structure:
       - Introduction: chapters/README.md
