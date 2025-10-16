@@ -43,7 +43,7 @@ embed_reveal:
 docusaurus:
   plugin: docusaurus
   options:
-    course_name: How to create, deploy and run decentralized code
+    course_name: Workshop
     sidebar: js
     structure:
       - Introduction: chapters/README.md
