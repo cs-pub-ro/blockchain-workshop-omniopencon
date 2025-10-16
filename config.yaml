@@ -74,8 +74,8 @@ docusaurus:
                 - Access & Faucet: faucet.md
                 - Send Transaction: send_tx.md
                 - Browser Web Wallet: browser_wallet.md
-                - Solana Wallet: solana_wallet.md
-                - Ethereum Wallet: ethereum_wallet.md
+                # - Solana Wallet: solana_wallet.md
+                # - Ethereum Wallet: ethereum_wallet.md
                 # - Observer: observer.md
       - Explorer:
               path: chapters/introduction/lab/content/explorer
@@ -100,6 +100,13 @@ docusaurus:
       #           - NFT: nft.md
       #         extra:
       #           - ../media/
+      - Learning Rust:
+              path: chapters/rust/content
+              subsections:
+                - Objectives: rust.md
+                - Tour of Rust: tour-of-rust.md
+                - CryptoZombies: cryptozombies.md
+
       - Smart Contracts:
               path: chapters/smart-contracts/lab/content
               subsections:
@@ -113,12 +120,6 @@ docusaurus:
                 - Neversea SC: neversea.md
               extra:
                 - ../media/
-      - Learning Rust:
-              path: chapters/rust/content
-              subsections:
-                - Objectives: rust.md
-                - Tour of Rust: tour-of-rust.md
-                - CryptoZombies: cryptozombies.md
       - Decentralized Applications:
               path: chapters/dApps/lab/content/
               extra:
@@ -177,13 +178,11 @@ docusaurus:
       - slides/Introduction: /build/make_assets/chapters/introduction/lecture/_site
       # - slides/Protocol: /build/make_assets/chapters/protocol/lecture/_site
     config_meta:
-      title: Blockchain Protocols and Distributed Applications
+      title: How to create, deploy and run decentralized code
       url: https://cs-pub-ro.github.io/
       baseUrl: /blockchain-workshop-omniopencon/
       onBrokenLinks: warn
       onBrokenMarkdownLinks: warn
     config_socials:
-      Main site: https://ocw.cs.pub.ro/courses/fob
-      OCW: https://ocw.cs.pub.ro/courses/fob
-      Facebook: https://www.facebook.com/zuck/
+      Main site: https://omniopencon.org
     copyright_string: Example Copyright
