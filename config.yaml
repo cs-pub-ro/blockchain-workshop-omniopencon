@@ -171,7 +171,7 @@ docusaurus:
       - slides/Introduction: /build/make_assets/chapters/introduction/lecture/_site
       # - slides/Protocol: /build/make_assets/chapters/protocol/lecture/_site
     config_meta:
-      title: How to create, deploy and run decentralized code
+      title: Workshop
       url: https://cs-pub-ro.github.io/
       baseUrl: /blockchain-workshop-omniopencon/
       onBrokenLinks: warn

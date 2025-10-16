@@ -3,9 +3,9 @@
 Let's see who can get the highest score!
 
 This repo contains 3 challenges:
-1. [Bump](bump.md)
-2. [Coinflip](coinflip.md)
-3. [GasPass](gaspass.md)
+1. [Bump](./Bump/)
+2. [Coinflip](./Coinflip/)
+3. [GasPass](./GassPass/)
 
 All these challenges can be completed using nothing but Rust interactors and smart contracts, but of couse, you are free to use any technology you prefer.
 
