@@ -135,7 +135,7 @@ docusaurus:
       - CTF:
               path: chapters/ctf/
               subsections:
-                - Intro: ctf.md
+                - Overview: ctf.md
                 - Bump: bump.md
                 - Coinflip: coinflip.md
                 - GassPass: gaspass.md
