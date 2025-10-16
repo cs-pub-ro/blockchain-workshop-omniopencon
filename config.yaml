@@ -100,12 +100,6 @@ docusaurus:
       #           - NFT: nft.md
       #         extra:
       #           - ../media/
-      - Learning Rust:
-              path: chapters/rust/content
-              subsections:
-                - Objectives: rust.md
-                - Tour of Rust: tour-of-rust.md
-                - CryptoZombies: cryptozombies.md
 
       - Smart Contracts:
               path: chapters/smart-contracts/lab/content
@@ -126,12 +120,18 @@ docusaurus:
                 - SC Events: events.md
               extra:
                 - ../media/
-      - Decentralized Applications:
-              path: chapters/dApps/lab/content/
-              extra:
-                - ../media/
+      - Learning Rust (Extra):
+              path: chapters/rust/content
               subsections:
-                - Building your first dApp: dApp.md
+                - Objectives: rust.md
+                - Tour of Rust: tour-of-rust.md
+                - CryptoZombies: cryptozombies.md
+      # - Decentralized Applications:
+      #         path: chapters/dApps/lab/content/
+      #         extra:
+      #           - ../media/
+      #         subsections:
+      #           - Building your first dApp: dApp.md
       - CTF:
               path: chapters/ctf/
               subsections:
@@ -178,4 +178,6 @@ docusaurus:
       onBrokenMarkdownLinks: warn
     config_socials:
       Main site: https://omniopencon.org
+      GitHub: https://github.com/cs-pub-ro/blockchain-workshop-omniopencon
+
     copyright_string: Example Copyright
