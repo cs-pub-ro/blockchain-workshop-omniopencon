@@ -3,9 +3,9 @@
 In this section we will install all the requirements needed for the practical sessions.
 This includes the following:
 - rustup - The Rust toolchain installer
-- MetaMask - Ethereum wallet
-- mxpy - tool for interacting with the blockchain
 - sc-meta - universal smart contract management tool
+- (Optional) mxpy - tool for interacting with the blockchain
+- (Optional) MetaMask - Ethereum wallet
 
 ## Rustup - The Rust toolchain installer
 
