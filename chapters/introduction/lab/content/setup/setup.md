@@ -6,11 +6,6 @@ This includes the following:
 - MetaMask - Ethereum wallet
 - mxpy - tool for interacting with the blockchain
 - sc-meta - universal smart contract management tool
-- Solana CLI - tool for interacting with Solana blockchain
-- Anchor - Solana smart contract framework
-- Phantom - Solana wallet
-- Solflare - Alternative Solana wallet with advanced features
-
 
 ## Rustup - The Rust toolchain installer
 

@@ -109,9 +109,9 @@ docusaurus:
                 - Empty Interactor: rust_interactors.md
                 - Adder SC: adder.md
                 - Rust Deploy SC: cargo_deploy.md
-                - Mxpy Deploy SC: mxpy_deploy.md
-                - Mxpy Call SC: mxpy_sc_call.md
-                - Neversea SC: neversea.md
+                - Mxpy Deploy SC - Extra: mxpy_deploy.md
+                - Mxpy Call SC - Extra: mxpy_sc_call.md
+                - Neversea SC - Extra: neversea.md
               extra:
                 - ../media/
       - Smart Contract Events:
@@ -120,7 +120,7 @@ docusaurus:
                 - SC Events: events.md
               extra:
                 - ../media/
-      - Learning Rust (Extra):
+      - Learning Rust:
               path: chapters/rust/content
               subsections:
                 - Objectives: rust.md
@@ -180,4 +180,4 @@ docusaurus:
       Main site: https://omniopencon.org
       GitHub: https://github.com/cs-pub-ro/blockchain-workshop-omniopencon
 
-    copyright_string: Example Copyright
+    copyright_string: OmniOpenCon

@@ -1,5 +1,12 @@
 # Smart Contract deployment via Python (mxpy)
 
+> **Note:**  
+> This guide outlines an alternative method of interacting with the blockchain using `mxpy` (Python-based tools).  
+> While Rust is often the most efficient and robust choice for many smart contract operations, and is the recommended approach in most cases, using `mxpy` can be convenient for those who are comfortable with Bash scripting or seeking quick, scriptable CLI solutions.
+>  
+> Feel free to use this method if it better fits your workflow!
+
+
 Let's deploy our smart contract on the blockchain. For this, we will use `mxpy` tools previously installed.
 We will deploy the `adder` contract from the previous section.
 
